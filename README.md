@@ -2,26 +2,25 @@ This repository contains the code used for the following paper:
 
 Identification and Classification of Wildlife from Camera-Trap Images using Machine Learning and Computer Vision.
 
-Author: Nawaz Sheikh
+Authors: Nawaz Sheikh
 
 If you use this code in an academic article, please cite the following paper:
+http://trap.ncirl.ie/4283/1/nawazsheikh.pdf
+
+The link mentioned above contains the project report and the configuration manual. Both the report and configuration manual were written using Latex.
 
 
-This repository has four independent parts:
+This repository has six independent parts:
 
-1- The code used for Task I: Detecting Images That Contain Animals (phase1 folder)
+1- The code used for Task I: Exploratory Data Analysis (phase 1 folder)
 
-2- The code used for Task II,III, and IV: identifying, counting, and describing animals in images (phase 2 folder)
+2- The code used for Task II,III, and IV: Applying InceptionV3, VGG and MobileNet algorithms to the dataset (phase 2 folder)
 
-3- The code used for Task II only, (all the transfer learning experiments for Task II used this part of the repo) (phase2_recognition_only folder)
-
-4- resize.py is used for resizing the input images for all the other parts
-
-For more information on how to use this repo please refer to the base repo at this link
+3- resize.py is used for resizing the input images for all the other parts
 
 1. Requirements
-Requirements
-To use this code, you will need to install the following:
+
+To use this code, you will need to install or use the following:
 
 Python
 Google Colab or Jupiter Notebook
@@ -36,13 +35,13 @@ OpenCV
 Pre-trained models could be found at the following links:
 
 Phase 1 (VGG architecture):
-https://drive.google.com/open?id=19MG7NY_pnQH2egAfEEr-yTlFteoMXe9Y
+https://drive.google.com/file/d/1-6Wl-8a0bzbZsK-sAtTkyheb5mRhGGhN/view?usp=sharing
 
 Phase 2 (ResNet-152 architecture):
-https://drive.google.com/open?id=15oXo7Zm1N9LXMFg0zuxgRM6FJoF-X2BU
+https://drive.google.com/file/d/1--rczt1D6VELdRx5H5iVbyhsO1cquAkk/view?usp=sharing
 
 Phase 2 recognition only (ResNet-152 architecture):
-https://drive.google.com/open?id=1xYgfIUS2IBKCDpcXCZCDjoEzn63dAWc1
+https://drive.google.com/file/d/1--XoZwQWKZ1swu3qoDsg9zUpkvTMdpuK/view?usp=sharing
 
 
 3. Questions?
