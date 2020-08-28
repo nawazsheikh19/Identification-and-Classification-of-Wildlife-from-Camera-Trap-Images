@@ -34,13 +34,13 @@ OpenCV
 2. Running
 Pre-trained models could be found at the following links:
 
-Phase 1 (VGG architecture):
+Inception-V3 architecture:
 https://drive.google.com/file/d/1-6Wl-8a0bzbZsK-sAtTkyheb5mRhGGhN/view?usp=sharing
 
-Phase 2 (ResNet-152 architecture):
+MobileNet architecture:
 https://drive.google.com/file/d/1--rczt1D6VELdRx5H5iVbyhsO1cquAkk/view?usp=sharing
 
-Phase 2 recognition only (ResNet-152 architecture):
+VGG-16 architecture:
 https://drive.google.com/file/d/1--XoZwQWKZ1swu3qoDsg9zUpkvTMdpuK/view?usp=sharing
 
 
