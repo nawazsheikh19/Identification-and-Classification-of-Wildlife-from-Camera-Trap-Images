@@ -10,7 +10,7 @@ http://trap.ncirl.ie/4283/1/nawazsheikh.pdf
 The link mentioned above contains the project report and the configuration manual. Both the report and configuration manual were written using Latex.
 
 
-This repository has six independent parts:
+This repository has three independent parts:
 
 1- The code used for Task I: Exploratory Data Analysis (phase 1 folder)
 
