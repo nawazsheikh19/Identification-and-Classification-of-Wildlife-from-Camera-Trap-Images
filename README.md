@@ -7,8 +7,8 @@ Authors: Nawaz Sheikh
 If you use this code in an academic article, please cite the following paper:
 Sheikh, N., 2020. Identification And Classification Of Wildlife From Camera-Trap Images Using Machine Learning And Computer Vision - NORMA@NCI Library. [online] Trap.ncirl.ie. Available at: <http://trap.ncirl.ie/4283/>.
 
-The link mentioned below contains the project report and the configuration manual. Both the report and configuration manual were written using Latex.
-http://trap.ncirl.ie/4283/
+The link http://trap.ncirl.ie/4283/ contains the project report and the configuration manual. Both the report and configuration manual were written using Latex.
+
 
 This repository has three independent parts:
 
