@@ -14,9 +14,11 @@ This repository has three independent parts:
 
 1- The code used for Task I: Exploratory Data Analysis (phase 1 folder)
 
-2- The code used for Task II,III, and IV: Applying InceptionV3, VGG and MobileNet algorithms to the dataset (phase 2 folder)
+2- The code used for Task II,III, and IV: Applying InceptionV3, VGG and MobileNet topologies to the dataset (phase 2 folder)
 
 3- resize.py is used for resizing the input images for all the other parts.
+
+You need to run six_classes_utils along with Exploratory Data Analysis. six_classes_utils is used in order to resize the images with the expected image format depending on the topology. 
 
 The dataset can be found on the following link:
 http://lila.science/datasets/missouricameratraps
