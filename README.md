@@ -5,7 +5,7 @@ Identification and Classification of Wildlife from Camera-Trap Images using Mach
 Authors: Nawaz Sheikh
 
 If you use this code in an academic article, please cite the following paper:
-http://trap.ncirl.ie/4283/1/nawazsheikh.pdf
+http://trap.ncirl.ie/4283/
 
 The link mentioned above contains the project report and the configuration manual. Both the report and configuration manual were written using Latex.
 
