@@ -14,7 +14,7 @@ This repository has three independent parts:
 
 1- The code used for Task I: Exploratory Data Analysis (phase 1 folder)
 
-2- The code used for Task II,III, and IV: Applying InceptionV3, VGG and MobileNet topologies to the dataset (phase 2 folder)
+2- The code used for Task II,III, and IV: Applying InceptionV3, VGG-16 and MobileNet topologies to the dataset (phase 2 folder)
 
 3- resize.py is used for resizing the input images for all the other parts.
 
