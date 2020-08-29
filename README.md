@@ -16,7 +16,7 @@ This repository has three independent parts:
 
 2- The code used for Task II,III, and IV: Applying InceptionV3, VGG and MobileNet algorithms to the dataset (phase 2 folder)
 
-3- resize.py is used for resizing the input images for all the other parts
+3- resize.py is used for resizing the input images for all the other parts.
 
 1. Requirements
 
