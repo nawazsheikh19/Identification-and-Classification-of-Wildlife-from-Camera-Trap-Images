@@ -18,6 +18,9 @@ This repository has three independent parts:
 
 3- resize.py is used for resizing the input images for all the other parts.
 
+The dataset can be found on the following link:
+http://lila.science/datasets/missouricameratraps
+
 1. Requirements
 
 To use this code, you will need to install or use the following:
