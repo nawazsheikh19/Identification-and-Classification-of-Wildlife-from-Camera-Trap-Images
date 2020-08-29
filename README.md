@@ -27,14 +27,7 @@ http://lila.science/datasets/missouricameratraps
 
 To use this code, you will need to install or use the following:
 
-Python
-Google Colab or Jupiter Notebook
-Keras
-Tensorflow
-NumPy
-ScikitPlot
-Pygal
-OpenCV
+Python, Google Colab or Jupiter Notebook, Keras, Tensorflow, NumPy, ScikitPlot, Pygal, OpenCV
 
 2. Running
 Pre-trained models could be found at the following links:
