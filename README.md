@@ -18,7 +18,7 @@ This repository has three independent parts:
 
 3- resize.py is used for resizing the input images for all the other parts.
 
-1. Requirements
+#Real Cool Heading 1. Requirements
 
 To use this code, you will need to install or use the following:
 
